@@ -408,7 +408,7 @@ After successful deployment, Streamlit provides a public URL that can be shared 
 ### 🚀 Live Application
 
 **Streamlit App:**  
-Add your deployed Streamlit URL here after deployment.
+https://aditya-heart-disease.streamlit.app/
 
 ### 🔗 GitHub Repository
 
